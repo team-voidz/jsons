@@ -1,4 +1,4 @@
 {
-    "locations": ["https://liberashop.rs"],
+    "locations": [{"url": "https://nx.ghostland.at", "title": "Ghost eShop", "action": "add"}, {"url": "https://liberashop.rs", "title": "LiberaShop", "action": "add"}],
     "success": "Welcome to the latest shops links compiled by team-voidz \n(Team-voidz is not associated with any of the shops' provider) \n\nOnly for personal use \nFYI,These shops are FREE. don't ever pay for it!"
 }
